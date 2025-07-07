@@ -1,5 +1,5 @@
 {
-  "name": "@conpagoaus/ioredis-mock",
+  "name": "@conpago/ioredis-mock",
   "version": "8.9.0",
   "description": "This library emulates ioredis by performing all operations in-memory.",
   "keywords": [
@@ -128,6 +128,6 @@
   },
   "runkitExampleFilename": "example.js",
   "publishConfig": {
-    "provenance": true
+    "access": "public"
   }
 }
