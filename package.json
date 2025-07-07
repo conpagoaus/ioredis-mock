@@ -1,6 +1,6 @@
 {
   "name": "@conpago/ioredis-mock",
-  "version": "8.9.0",
+  "version": "8.10.0",
   "description": "This library emulates ioredis by performing all operations in-memory.",
   "keywords": [
     "fakeredis",
